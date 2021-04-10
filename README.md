@@ -1,4 +1,9 @@
-# vue-weather
+# vue-weather-forcast
+
+Check it out here!!!! 
+```
+https://raghavs-weather-forcast.netlify.app/
+```
 
 ## Project setup
 ```
